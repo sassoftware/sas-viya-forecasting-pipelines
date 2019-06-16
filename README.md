@@ -6,7 +6,7 @@ SAS Visual Forecasting, the new-generation forecasting product from SAS, include
 
 This repository provides custom pipeline and modeling nodes in SAS Visual Forecasting.
 
-## Customo modeling nodes:
+## Custom modeling nodes:
 | File  | VF version | Description |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Gradient Boosting Model.zip  | VF 8.4  | Example of custom code node using gradient boosting for time series. Details in the SGF Paper SAS3258-2019, **Writing a Gradient Boosting Model Node for SAS® Visual Forecasting**, downloadable at [click here](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3258-2019.pdf).|
