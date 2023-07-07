@@ -9,4 +9,4 @@ This repository provides custom pipeline and modeling nodes in SAS Visual Foreca
 ## Custom modeling nodes:
 | File name  | VF version | Description |
 | ------------- | ------------- | ------------- |
-| Gradient Boosting Model.zip  | VF 8.4  | Example of a custom code node using Gradient Boosting for time series forecasting. Details are in the SGF Paper SAS3258-2019, **Writing a Gradient Boosting Model Node for SAS® Visual Forecasting**, downloadable at [click here](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3258-2019.pdf).|
+| Gradient Boosting Model.zip  | Viya 4  | Example of a custom code node using Gradient Boosting for time series forecasting. Details are in the SGF Paper SAS3258-2019, **Writing a Gradient Boosting Model Node for SAS® Visual Forecasting**, downloadable at [click here](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3258-2019.pdf).|
