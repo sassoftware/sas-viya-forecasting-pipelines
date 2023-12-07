@@ -10,6 +10,5 @@ This repository provides custom pipeline and modeling nodes in SAS Visual Foreca
 | File name  | VF version | Description |
 | ------------- | ------------- | ------------- |
 | Gradient Boosting Model.zip  | Viya 4  | Example of a custom code node using Gradient Boosting for time series forecasting. Details are in the SGF Paper SAS3258-2019, **Writing a Gradient Boosting Model Node for SAS® Visual Forecasting**, downloadable at [click here](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3258-2019.pdf).|
-| ------------- | ------------- | ------------- |
 | VF_RNN_ATSM_NODE.zip  | Viya 4  | A SAS® Visual Forcasting custom node for recurrent neural network(RNN) forecasting. The node uses the ATSM package and the RNNSPEC in the TSM package of PROC TSMODEL. The RNN options are found at https://go.documentation.sas.com/doc/en/pgmsascdc/v_045/castsp/castsp_tsm_sect129.htm and some implemented RNN details are in https://go.documentation.sas.com/doc/en/pgmsascdc/v_045/castsp/castsp_tnf_sect037.htm |   
 
